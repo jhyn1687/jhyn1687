@@ -1,6 +1,6 @@
 ### Hey!
 
-I am a NCG SWE at Roblox. Currently in the User Connections team.
+I am a NCG SWE at Roblox. Currently on the User Connections team.
 
 You can check out my portfolio on my [Website](https://jhyn.dev).
 
